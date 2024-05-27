@@ -1,3 +1,5 @@
 {
-  "welcome": "Bienvenue"
+  "welcome": "Bienvenue",
+  "greeting.hello": "Bonjour!",
+  "message": "Ceci est un simple message"
 }
